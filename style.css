@@ -1,0 +1,106 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Poppins", sans-serif;
+}
+section {
+  margin-top: 20px;
+}
+.top-cover {
+  display: flex;
+}
+.top-bar {
+  width: 50%;
+}
+.top-bar img {
+  width: 30%;
+  padding-left: 20%;
+}
+.top-icon {
+  text-decoration: none;
+  padding-left: 5px;
+  padding-right: 10px;
+}
+#cover-picture {
+  background-image: url(images/top-cover.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  background-attachment: fixed;
+}
+.cover-text {
+  width: 40%;
+  text-align: left;
+  padding-top: 23%;
+  padding-bottom: 15%;
+  padding-left: 10%;
+  color: white;
+  text-shadow: 2px 2px 30px rgb(65, 63, 63);
+  font-size: 16px;
+}
+.cover-text p {
+  text-align: justify;
+}
+.cover-text h1 {
+  color: orangered;
+}
+.orange {
+  color: orange;
+}
+
+.about {
+  width: 50%;
+}
+.about-section {
+  display: flex;
+}
+.about img {
+  width: 100%;
+}
+.about-text {
+  padding-right: 15px;
+  text-align: justify;
+}
+
+.about-h1 {
+  color: orangered;
+  border-bottom: 4px solid orangered;
+}
+#about-margin {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.academics{    
+    display: flex;
+}
+#academic{
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+.academics-1{
+    width:30%;
+    padding-right: 15px;
+    padding-left: 15px;
+
+}
+.academics-1 p{
+    text-align: justify;
+}
+
+.academics-1 img{
+    width: 100%;
+    height: 180px;
+}
+#admission{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+#admission img{
+    width: 100%;
+}
+#admission div{
+    padding-left: 10px;
+    padding-right: 10px;
+}
